@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437059088411",
+    "project_id": "flash-chat-f66ec",
+    "storage_bucket": "flash-chat-f66ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437059088411:android:0d087fd8dbb92f0744c8be",
+        "android_client_info": {
+          "package_name": "com.pooja.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0gibyvIou2r0zH_-T7sHten9u9A8tsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
